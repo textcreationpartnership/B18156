@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Briscoe's reply to a pamphlet, intituled, The freeholders answer to Mr. John Briscoe's proposals for a national bank.</title>
+            <author>Briscoe, John, fl. 1695.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18156</idno><idno type="EEBO-CITATION">99885486_186421</idno>
+  <idno type="VID">186421</idno>
+  <idno type="EEBO-PROQUEST">2248536412</idno>
+  
+            <idno type="STC">Wing B4755</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[12]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 712.m.1[52]</idno>
+            <idno type="STC">ESTC R224006</idno>
+            <idno type="PROQUEST">ocm99885486</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885486e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186421)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[12]; C4:3[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Briscoe's reply to a pamphlet, intituled, The freeholders answer to Mr. John Briscoe's proposals for a national bank.</title>
+                  <author>Briscoe, John, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Freeholders answer to Mr. John Briscoe's proposals for a national bank --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Land banks --  England --  Early works to 1800.</term>
+               <term type="topical_term">Local finance --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Government lending --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land value taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response_to_libel">
+            <pb n="1" facs="tcp:186421:1"/>
+            <head>
+               <hi>Mr.</hi> BRISCOE<hi>'s REPLY to a Pamphlet, Intituled,</hi> The Freeholders Answer to Mr. <hi>John Briscoe</hi>'s Proposals for a National Bank.</head>
+            <p>HAving laid open my Books on the 11th Day of <hi>June,</hi> to receive Subscriptions for a <hi>FƲND</hi> for a <hi>NATIONAL LAND BANK,</hi> and Gentlemen coming in faster with their Estates than some Persons expected; our <hi>Lincoln</hi>'s-<hi>Inn Ʋndertakers</hi> (for so I call the first Promoters, and not such who have unwarily joined with them) did thereupon publish a <hi>Silly Pamphlet</hi> under the Title of the Free-Holders Answer, hoping thereby to put a stop to my Subscriptions: and tho as some Gentlemen well observ'd, it deserv'd rather Contempt than an Answer, yet I thought it not amiss to lay hold of this Opportunity to give the Free-holders a truer Account of this wonderful <hi>Lincoln</hi>'s-<hi>Inn Bank,</hi> than the Undertakers have done in a late Paper, intituled, <hi>An Account of the Land-Bank,</hi> and to shew them what mighty Feats, they, or such who have given notice to the Mortgagees for taking in their Money, in hopes of being supplyed by the said intended Bank, may expect from the said Undertakers. But withal I shall carefully avoid all Scurrilous Expressions; only thus much I shall take leave to say, <hi>That those Ʋndertakers ought above all other Men to forbear reflecting on others,</hi> and that as I was not ashamed to print my Name to my Proposals, which for very good Reason they forbear to do to theirs; so none who have subscribed in my Books, have ever wish'd (as several of the Subscribers to the <hi>Lincoln</hi>'s-<hi>Inn Bank</hi> have done) <hi>That the first Promoters had been Men of clearer Reputations.</hi>
+            </p>
+            <p>But in answer to the Pamphlet; they tell us, <hi>That the Free-holders of</hi> England <hi>do not stand on the same Foot of Credit with Merchants and Traders; for a Trader worth but a Thousand Pounds may borrow more Money on his Note, than a Gentleman that has</hi> 1000 l. per Annum.</p>
+            <p>And what of all this? Do our Undertakers pretend to better his Credit? No, they tell him he shall have Money for 3 <hi>l.</hi> 10 <hi>s. per Cent. per Annum,</hi> if he will make over his Estate to them for a Security, and suffer them to Charge his Land with Bills for the like value; so that the Gentleman is to create them a Fund, and come Cap in Hand to our Undertakers for a few of their Bank-Bills, which if any one takes, it is because they are secured by the Gentleman's Estate, who notwithstanding is not likely to be a Penny Gainer by the Bank: While our Undertakers propose (as appears by their Printed Paper) to get 30 or 40 <hi>l. per Cent. per Annum</hi> profit to themselves: So that in deed it is the Gentleman's Estate they trust, and not the Gentleman himself, or rather he trusts them with his Estate wherewith to raise themselves a Reputation; Without which they well know no Body will credit them, nor their Bills.</p>
+            <p>In the next Place our Undertakers say, <hi>That I propose to my self a fourth part of the clear Profits according to my Proposals.</hi>
+            </p>
+            <p>And what if I had proposed the whole? or what Profit is the Freeholder to receive out of theirs? Is not the Free-holder under better Circumstances with me if they have Money for 3 <hi>l.</hi> 0 <hi>s.</hi> 10 <hi>d. per Cent. per Annum,</hi> and three fourth parts of the Profits, than with our Undertakers, who propose to furnish them for 3 <hi>l.</hi> 10 <hi>s. per Cent. per Annum,</hi> without one Farthing advantage? But whoever reads over my last printed Proposals will find, <hi>That the Profit of the NATIONAL LAND-BANK is to be divided among the Subscribers in proportion to their several Subscriptions.</hi>
+            </p>
+            <p>But say our Undertakers, <hi>The Objection and Reason why the Freeholders do not subscribe, is, Because I tell them they shall have Money or Notes upon their Lands for</hi> 3 l. per Cent. per Annum, <hi>and yet refuse to tell them where the Money is to be had,</hi> &amp;c.</p>
+            <p>Yes, Mr. Undertakers; tho my Books have lain open but half the time as yours have, I have al<g ref="char:EOLhyphen"/>ready Subscriptions for the value of five times more than you can pretend to: But I know there lies your Grievance; and several have been nibbling at me to know my Methods of raising Money: But now I shall give the Freeholder one Reason more than I have yet done, why I do not discover my said Methods, <hi>viz.</hi> On <hi>Wednesday</hi> the 26th of <hi>June,</hi> a Subscriber to the <hi>Lincolns-Inn-Bank</hi> meeting me; after the usual Comple<g ref="char:EOLhyphen"/>ment, says he, Mr. <hi>Briscoe</hi> why will you not agree with us? I knowing nothing of his being a Subscriber to the said Bank, told him I knew not of any Difference I had with him: He then told me he had subscribed to the <hi>Lincolns-Inn-Bank,</hi> and that he would fain have a <hi>Coalescence,</hi> which was his word: I answered him, that I had no reason to come under those who had built upon my Foundation: He replied, It is true, I acknowledg they have borrowed their Methods from you; but <hi>when a Man hath once published what he knows in Print, it is no longer his, but any Man's that will make use of it.</hi> I told him, If I left my Door open all night I might indeed ex<g ref="char:EOLhyphen"/>pect to be robb'd, but would not believe any honest Man would join in the Robbery; and that I was troubled to see such honest Gentlemen, as I took him and some others to be, concerned with Persons, who by their own Con<g ref="char:EOLhyphen"/>fessions, went about to deprive me of the Fruit of my Labours: But, adds the Gentleman, <hi>you keep the main Secret
+<pb n="2" facs="tcp:186421:2"/>of raising Money, behind the Curtain; and Gentlemen are dissatisfied, because they cannot imagin where the Money will he had.</hi> I told him he had given me a very good Reason why I ought not to discover it, in saying, That when I had once divulged it, it was no longer mine but any others that would make use of it. But because our Under<g ref="char:EOLhyphen"/>takers make such a great Bluster about Money, I think fit to acquaint our Freeholder, <hi>That there is a great Difference between subscribing and paying</hi> 100000 <hi>l.</hi> the one without the other, being but like the <hi>Jingling of a Shilling between two empty Dishes▪</hi> And I have been told by some of the Subscribers to the said Intended Bank, <hi>that several had sub<g ref="char:EOLhyphen"/>scribed</hi> 1000 <hi>l. apiece, whom they were satisfied knew not where to raise so many Shillings.</hi> But however, those Gentle<g ref="char:EOLhyphen"/>men being so well acquainted with <hi>Dego</hi>'s Answer, they cannot be at a loss what to say when their Subscription-Money shall come to be called for. And since I am upon this Subject, I will add one Passage more between another of their Society and me; who pressed me very earnestly to join with them, bidding me make my own Demands: I told him I did not approve of their Constitution, for that they had built upon an <hi>unfirm Foundation;</hi> and if I came in among them, I should advise to the cutting to pieces their Deed of Settlement, which they so much valued themselves upon, and had given Councel so much trouble to peruse; telling him likewise, That I resolved to proceed upon my own bottom, and therefore if they had a mind to join they might come in with me: To which he repl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, That they could turn themselves into any Shape, and make what Alterations they thought fit; and that <hi>I could do nothing but they had reserved to themselves a Liberty to do the same.</hi>
+            </p>
+            <p>I could add much more of the like nature, but shall forbear. Now since these Gentlemen act upon such Princi<g ref="char:EOLhyphen"/>ples, I leave it to any Man to judg whether or no I have reason to discover my Methods.</p>
+            <p>But without discovering any thing of my Intended Methods of raising Money, which I am not to be trickt out of by our Undertakers; I will convince the Freeholder out of their printed Paper, intituled, <hi>An Account of the Land-Bank,</hi> that if they are not out in their reckoning I cannot want Money for to make good what I have proposed.</p>
+            <p>They tell us, <hi>That there is two or three Millions</hi> owing <hi>at Interest upon the Land:</hi> That <hi>how great soever the Sums are that are owing at Interest upon Land, it may be all lent by the Bank, and the Bills paid on demand, and circulated with one hundred thousand Pounds; but yet, if by Experience it shall be found not sufficient, there is a Provision in the Settlement for the Subscribing one hundred thousand Pounds more, for which the first Subscribers are to have the Preferrence.</hi> Now suppose our Undertakers should lend Bills to the value but of two Millions, and that the whole two hundred thousand Pounds were raised to circulate the two Millions, and that none of the Sub<g ref="char:EOLhyphen"/>scribers (for this once) should make use of <hi>Dego</hi>'s Answer, I hope it is plain that in such Case they must circulate 1000 <hi>l.</hi> Bills with 100 <hi>l.</hi> in Money; now I do not find them to be such <hi>Conjurers</hi> but another may do as much as they: If therefore the <hi>National Land-Bank</hi> issue out no Bills, they will want to Money to circulate them, if they do they will have 3 <hi>l.</hi> 0 <hi>s.</hi> 10 <hi>d. per Cent. per Annum</hi> Interest for them, which is 30 <hi>l.</hi> 8 <hi>s.</hi> 4 <hi>d. per Annum</hi> for very 1000 <hi>l.</hi> value in Bills that they shall issue out, and for every 1000 <hi>l.</hi> Bills must be given about 1300 <hi>l.</hi> value real Security: And according to our Undertakers Notion 100 <hi>l.</hi> in Money will circulate 1000 <hi>l.</hi> Bills. Now I will refer it to any Rational Man, whether the National Bank upon 1300 <hi>l.</hi> Security cannot raise, and if out of 30 <hi>l.</hi> 8 <hi>s.</hi> 4 <hi>d. per Annum</hi> they cannot afford to pay Interest for 100 <hi>l. in Specie;</hi> if no better way could be found out to raise Money. And therefore, with our Undertakers leave, I see no occasion to shut up my Books, which I know they earnestly long for, that they may have an Opportunity to make a Penny of the Free-holders.</p>
+            <p>Ay but say our Undertakers, <hi>Mr.</hi> Briscoe <hi>read over our Settlement, and could make no Objection against it, but de<g ref="char:EOLhyphen"/>sired to be a Subscriber for</hi> 1000 l. <hi>without paying any Money.</hi>
+            </p>
+            <p>It is well known that I did object against it to some of their Company, and gave them the Reasons for such my Objections; and I told the same Person that one of the Undertakers had offer'd me to subscribe 1000 <hi>l.</hi> and that I should not pay in any Money, but that I would not be concerned with them on such dishonourable Terms; but I find that is but a common Kindness they afford to several others, whose Subscriptions, tho they may serve to swell up the Sum, will I doubt go but a little way in the circulating of their Bills.</p>
+            <p>I shall add something farther, by way of Parallel, between the <hi>National Land-Bank</hi> and the pretended <hi>Lincoln</hi>'s-<hi>Inn Bank.</hi>
+            </p>
+            <p>The <hi>National Land-Bank</hi> is properly so called, the Fund being Land, the Society Landed Men, who appoint Landed Men to be <hi>Trustees, Governours, Treasurers, &amp;c.</hi> and displace them at pleasure.</p>
+            <p>The <hi>Lincolns-Inn Bank</hi> assume the Name of a <hi>Land-Bank</hi> improperly; for Money is their Fund, the Society Monied Men, who appoint <hi>Trustees, Directors, &amp;c.</hi> wherein the Landed Men have no Vote, not so much as for a Door-keeper.</p>
+            <p>The <hi>National Land-Bank</hi> furnishes the Landed Men with Money, for 3 <hi>l.</hi> 0 <hi>s.</hi> 10 <hi>d. per Cent. per Annum,</hi> among whom all the Profits of the Bank are to be divided.</p>
+            <p>The <hi>Lincolns-Inn Bank</hi> proposes to furnish the Landed Men for 3 <hi>l.</hi> 10 <hi>s.</hi> 0 <hi>d. per Cent. per Annum,</hi> but do not allow them one Penny advantage by the Bank.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
